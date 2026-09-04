@@ -1,3 +1,10 @@
-family-names: "Liskmann"
-given-names: "Mikael"
-repository-code: "https://github.com/Dracoalias/lm2-4luc-tumor-growth-analysis"
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Mikael"
+  given-names: "Liskmann"
+
+title: "LM2-4LUC Tumor Growth Analysis"
+version: 1.0.0
+date-released: 2026-09-02
+url: "https://github.com/Dracoalias/lm2-4luc-tumor-growth-analysis"
